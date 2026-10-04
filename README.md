@@ -66,18 +66,18 @@ Competitive programming and contest problems.
 
 ```text
 competitive-programming/
-│
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-│
-└── codeforces/
-    ├── 800/
-    ├── 900/
-    ├── 1000/
-    ├── 1100/
-    └── ...
+â
+âââ leetcode/
+â   âââ easy/
+â   âââ medium/
+â   âââ hard/
+â
+âââ codeforces/
+    âââ 800/
+    âââ 900/
+    âââ 1000/
+    âââ 1100/
+    âââ ...
 ```
 
 The structure will evolve as the repository grows.
