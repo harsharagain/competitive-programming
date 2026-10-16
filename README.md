@@ -8,3 +8,4 @@
 | 6 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 04 Oct 2026 | 04:09 pm |
 | 7 | [677A - Vanya and Fence](./Codeforces/basic/677A%20-%20Vanya%20and%20Fence) | [Codeforces](https://codeforces.com/problemset/problem/677/A) | basic | 04 Oct 2026 | 04:09 pm |
 | 8 | [Running Sum of 1d Array](./LeetCode/Easy/Running%20Sum%20of%201d%20Array) | [LeetCode](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | 04 Oct 2026 | 04:14 pm |
+| 9 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 16 Oct 2026 | 05:14 pm |
