@@ -2,22 +2,20 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
 
-        int n = nums.size();
+        int maxSum = INT_MIN;
+        int temp;
 
-        int largestSum = INT_MIN;
-        int total = 0;
+        for (int val : nums) {
+            temp += val;
 
-        for (int i = 0; i < n; i++) {
-            total += nums[i];
+            maxSum = max(maxSum, temp);
 
-            largestSum = max(largestSum, total);
-
-            if (total < 0) {
-                total = 0;
+            if (temp < 0) {
+                temp = 0;
             }
         }
 
-        return largestSum;
+        return maxSum;
         
     }
 };
