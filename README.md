@@ -11,3 +11,4 @@
 | 9 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 16 Oct 2026 | 05:14 pm |
 | 10 | [Single Number](./LeetCode/Easy/Single%20Number) | [LeetCode](https://leetcode.com/problems/single-number/) | Easy | 12 Nov 2026 | 06:43 pm |
 | 11 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 12 Nov 2026 | 08:48 pm |
+| 12 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 12 Nov 2026 | 10:24 pm |

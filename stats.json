@@ -1,11 +1,11 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-11-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 1,
     "hard": 0,
     "basic": 6
@@ -21,15 +21,17 @@
     "LeetCode_Running_Sum_of_1d_Array": true,
     "LeetCode_Maximum_Subarray": true,
     "LeetCode_Single_Number": true,
-    "LeetCode_Two_Sum": true
+    "LeetCode_Two_Sum": true,
+    "LeetCode_Majority_Element": true
   },
   "activityHistory": {
     "2026-10-04": 8,
     "2026-10-16": 1,
-    "2026-11-12": 2
+    "2026-11-12": 3
   },
   "todayProblems": [
     "Single Number",
-    "Two Sum"
+    "Two Sum",
+    "Majority Element"
   ]
 }
