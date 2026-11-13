@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-11-12",
-  "todayCount": 3,
+  "totalSolved": 13,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-11-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 6
   },
@@ -22,16 +22,16 @@
     "LeetCode_Maximum_Subarray": true,
     "LeetCode_Single_Number": true,
     "LeetCode_Two_Sum": true,
-    "LeetCode_Majority_Element": true
+    "LeetCode_Majority_Element": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-10-04": 8,
     "2026-10-16": 1,
-    "2026-11-12": 3
+    "2026-11-12": 3,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Single Number",
-    "Two Sum",
-    "Majority Element"
+    "Container With Most Water"
   ]
 }
