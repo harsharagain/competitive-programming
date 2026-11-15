@@ -14,3 +14,4 @@
 | 12 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 12 Nov 2026 | 10:24 pm |
 | 13 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 13 Nov 2026 | 05:38 pm |
 | 14 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 13 Nov 2026 | 06:10 pm |
+| 15 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 15 Nov 2026 | 07:43 pm |
